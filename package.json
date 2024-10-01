@@ -2,7 +2,7 @@
   "name": "modern_app",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://akcodesstuff.github.io/React-App-practice/",
+  "homepage":".",
   "type": "module",
   "scripts": {
     "dev": "vite",
